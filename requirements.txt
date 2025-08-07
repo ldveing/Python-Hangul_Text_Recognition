@@ -1,0 +1,10 @@
+# Tensorflow 설치 시, Numpy 자동 설치!!!
+tensorflow
+Pillow
+scipy
+albumentations
+pandas
+opencv-python-headless
+tqdm
+scikit-learn
+matplotlib
